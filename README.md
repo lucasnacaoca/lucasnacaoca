@@ -2,7 +2,7 @@
 
 - 💼 Procurando emprego
 - 💻 Cursando Engenharia de Computação
-- 📚 Aprendendo Java
+- 📚 Aprendendo C, HTML e CSS
 
  <div>
   <a href="https://github.com/lucasnacaoca">
